@@ -30,7 +30,7 @@ Set up your project folder like this before running:
 ```
 project/
 ├── data/
-│   ├── buurt_to_buurt.csv
+│   ├── buurt_to_buurt.csv (not possible to upload to this repository)
 │   ├── kwb2025.xlsx
 │   ├── voorzieningen_per_buurt_klasse.csv
 │   ├── odin2024_full.csv

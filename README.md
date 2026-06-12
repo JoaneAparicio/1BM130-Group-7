@@ -66,6 +66,9 @@ This notebook:
 
 > ⚠️ **Topic 2 depends on Topic 1 outputs.** Always run Topic 1 first.
 
+### Step 3 — Topic 3
+Open the folder **`topic_3`** and read the **`README.md`** from that topic.
+
 ---
 
 ## How to open and run a notebook
